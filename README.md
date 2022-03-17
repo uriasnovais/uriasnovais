@@ -1,6 +1,6 @@
 ### Salve Salve família 👋
 
-- 🔭 Sou estudante de Sistemas de Informação e Programador Python
+- 🔭 Estudante de Sistemas de Informação e Programador Python
 - 🎓 Formado em Gastronomia
 - 🌱 Estudando Python e Inteligencia Artificial
 - 🤔 Sempre em busca de aprender e ser orientado no mundo da Inteligencia Artificial
