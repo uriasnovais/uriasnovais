@@ -1,11 +1,9 @@
 ### Salve Salve família 👋
 
-- 🔭 Estudante de Sistemas de Informação e Programador Python
-- 🎓 Formado em Gastronomia
-- 🌱 Estudando Python e Inteligencia Artificial
-- 🤔 Sempre em busca de aprender e ser orientado no mundo da Inteligencia Artificial
+- 🔭 Formado em Sistemas de Informação e Gastronomia
+- 🌱 Analista de Governança de Dados
 - 🏳‍🌈 Homem Cis Assexual (Ele/ Dele)
-- 💬 Adoro conversar sobre Gastronomia e Tecnologia
+- 💬 Adoro conversar sobre Gastronomia e Dados
 - ⚡ Fun fact: Não gosto de Filé a Parmegiana
 
 ##
